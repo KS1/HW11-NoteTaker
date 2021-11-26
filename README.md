@@ -16,12 +16,12 @@ git clone git@github.com:KS1/HW11-NoteTaker.git
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku]() for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku](https://ksnotetaker.herokuapp.com/notes) for you to use as well.
 
 ## Preview:
-![Application Preview]()
+[video](https://watch.screencastify.com/v/0BFBBWtRbd2zzcYwLbfC)
 
 ## Deployed Link:
-[Note Taker App]()
+[Note Taker App](https://ksnotetaker.herokuapp.com/notes)
 
 
